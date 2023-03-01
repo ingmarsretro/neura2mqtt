@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/neura2mqtt",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ingmarsretro"
+    }
+  ],
+  "require": {
+    "php-mqtt/client": "v1.8.0",
+    "phpgt/dom": "v3.0.3",
+    "phpgt/cssxpath": "v1.1.4",
+    "phpgt/propfunc": "v1.0.1",
+    "guzzlehttp/guzzle" : "7.5.0"
+  }
+}
